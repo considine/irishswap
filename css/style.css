@@ -1,0 +1,67 @@
+.away {
+	color: blue;
+}
+
+.headtitle {
+	font-family: "Times";
+	font-size: 300%;
+	color: #B18D03;
+	text-align: center;
+}
+
+.nd {
+	color: green;
+}
+
+header {
+	background-color: #002b5b;
+	height: 100px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.gamelist {
+	font-size: 250%;
+}
+
+.picright {
+	width: 30%;
+	height: 350px;
+	vertical-align: top;
+/*	height: 350px;*/
+	display: inline-block;
+}
+
+.listwrapper {
+	display: inline-block;
+	width: 30%;
+}
+
+
+.picleft{
+	width: 30%;
+	vertical-align: top;
+	height: 350px;
+	display: inline-block;
+}
+
+.listtitle {
+	font-size: 275%;
+}
+
+.second {
+	display: block;
+	height: 350px;
+	width: 100%;
+}
+
+.strokeme
+{
+    color: green;;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
